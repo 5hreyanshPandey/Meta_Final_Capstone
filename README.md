@@ -10,7 +10,9 @@ This project integrates a booking system within the Little Lemon Restaurant webs
 
 # Features:
 Seamless Booking Functionality: Offers users a smooth and intuitive interface for making reservations.
+
 Data Integration: Implements API calls to retrieve and manage information, delivering a realistic and data-driven experience.
+
 Responsive Design: Ensures an optimized viewing experience on devices of all sizes and resolutions.
 
 # Technologies Used:
