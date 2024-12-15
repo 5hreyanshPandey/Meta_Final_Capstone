@@ -17,5 +17,7 @@ Responsive Design: Ensures an optimized viewing experience on devices of all siz
 
 # Technologies Used:
 React: For building reusable components and managing application state.
+
 APIs: To handle real-time data retrieval and updates.
+
 CSS: For crafting a visually appealing and user-friendly design.
